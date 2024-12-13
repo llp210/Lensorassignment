@@ -19,6 +19,5 @@ Precision: 0.45
 Recall: 0.26
 F1 Score: 0.27
 
-The discrepancies betwen the classes (see the picture joint called 'distribution') explain the low precision recall as i didn't handle the classes imbalanced.
-
-Some samples of damage predictions and actuals has also been joint to the file
+The discrepancies betwen the classes (see the picture joint in the zip file called 'distribution') explain the low precision recall as i didn't handle the classes imbalanced.
+Some samples of damage predictions and actuals has also been joint to the file.
